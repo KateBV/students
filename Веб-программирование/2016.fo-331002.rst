@@ -41,7 +41,7 @@
    * - 1
      - Белкина Екатерина Валерьевна
      - KateBV_
-     - |1.dz1.2|_
+     - |1.dz1.1|_ |1.dz1.2|_
      -
      -
      -
@@ -266,6 +266,8 @@
 .. _7.dz1.1: https://github.com/Dizrax/myproject
 .. |7.dz1.2-4| replace:: 2-4
 .. _7.dz1.2-4: https://gist.github.com/Dizrax/aff13031c9b27f75b9cb
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/KateBV/-1.1
 
 .. Домашняя работа #2
 
